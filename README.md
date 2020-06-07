@@ -82,10 +82,10 @@ masternodeprivkey的值是第4步输入masternode genkey后得到的一串代码
 ![Image](https://github.com/lbwchain/masternode/blob/master/node8.png)
   
 目前主节点数量较少，通常在几个小时应该能收到主节点奖励  
-目前LBWCOIN奖励机制每个块1 BWCOIN  
+目前LBWCOIN奖励机制每个块1 LBWCOIN  
 POW能分到0.75个，主节点能分到0.25个  
   
-Ubuntu版本搭建MASTERNODE教程类似。  
+Ubuntu版本搭建MASTERNODE教程类似
 
 
 
