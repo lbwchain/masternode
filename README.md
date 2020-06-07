@@ -28,16 +28,13 @@ Output index: 1
 5，点击LBWCOIN钱包“工具”---“Open Masternode Configuration File”  
 按照以下示例填好参数  
 Name IP:port masternodeprivkey collateral_output_txid collateral_output_index  
-
--------------------------------------------------------------------------------
-以下为参数说明：  
+#以下为参数说明：  
 Name：节点名称，随便填写即可  
 IP：远程服务器IP，如果你不知道你的远程服务器IP，可以询问服务器提供商  
 Masternodeprivkey：第4步输入masternode genkey回车后得到的一串代码  
 collateral_output_txid：第3步得到的交易ID  
 collateral_output_index：第3步得到的Output index值，通常是1或者0  
 
---------------------------------------------------------------------------------
 以下是我的示例文件  
 best001 XXX.XXX.XXX.XXX:9095 6u83WXzWhNuF7N6KRv818Ev3hZj53cLQ2yziKy89ovKf1VvEN7G 7f92ca9de6934f58a8ef02a14caa10e5470599349aa2e61967bed6d8568aedfa 0
 请按照实际改成你自己的数据  
