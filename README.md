@@ -79,13 +79,18 @@ masternodeprivkey的值是第4步输入masternode genkey后得到的一串代码
 找到My Masternodes  
 选中你的主节点右键，Initialize masternode  
 观察Status状态，如果状态显示“ENABLED”表示正常  
-如果状态显示“PRE_ENABLED”请等待15分钟后再次检查状态是否正常  
+如果状态显示“PRE_ENABLED”请等待15-20分钟后再次检查状态是否正常  
 如果你的服务器有防火墙，请将开放进/出TCP端口9050  
 ![Image](https://github.com/lbwchain/masternode/blob/master/node8.png)
   
 目前主节点数量较少，通常在几个小时应该能收到主节点奖励  
 目前LBWCOIN奖励机制每个块1 LBWCOIN  
 POW能分到0.75个，主节点能分到0.25个  
+  
+  
+注意：钱包接收到3888个LBW，建议等待20个区块确认数再去点击“Initialize masternode”  
+
+
   
 Ubuntu版本搭建MASTERNODE教程类似
 
